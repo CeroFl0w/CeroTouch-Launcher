@@ -131,4 +131,5 @@ RECOMENDACIONES
   - No compartas tus contraseñas con nadie ni las escribas en
     páginas que te las pidan "para usar un mod".
   - Mantén tu antivirus activo.
-  <img width="1360" height="768" alt="WhatsApp Image 2026-11-27 at 7 55 23 AM" src="https://github.com/user-attachments/assets/f78565ba-0ab9-455b-a32d-f1559be7e479" />
+<img width="1360" height="768" alt="WhatsApp Image 2026-11-27 at 7 51 35 AM" src="https://github.com/user-attachments/assets/aee6a3f4-92d2-4523-8d3e-e2484dea0e3e" />
+
