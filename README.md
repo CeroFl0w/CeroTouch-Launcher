@@ -1,4 +1,4 @@
-<img width="1360" height="768" alt="WhatsApp Image 2026-11-27 at 7 55 23 AM" src="https://github.com/user-attachments/assets/4e603ef0-76c3-49c2-ad6b-4d0b458569b6" />==============================================================
+<img width="1360" height="768" alt="WhatsApp Image 2026-11-27 at 7 55 23 AM" src="https://github.com/user-attachments/assets/4e603ef0-76c3-49c2-ad6b-4d0b458569b6" />=======================================
   CEROTOUCH LAUNCHER
   Un launcher de Minecraft con estilo propio
 ==============================================================
